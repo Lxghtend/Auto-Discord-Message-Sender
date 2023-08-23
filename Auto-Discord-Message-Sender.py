@@ -1,6 +1,10 @@
 import requests
 import asyncio
 
+#SCRIPT BY LXGHTEND
+
+#DM @Lxghtend ON DISCORD WITH QUESTIONS
+
 #https://discord.com/api/v9/channels/845080693175222282/messages <---- gtp tc-sales
 
 payload = {
